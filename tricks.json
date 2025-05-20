@@ -87,6 +87,72 @@
         "categories": ["Card Tricks"],
         "isPro": false,
         "isFeatured": true
-      }
-    ]
-  }
+      },
+      {
+        "id": "10",
+        "title": "rubber band magic ",
+        "description": "Reveal unique rubber band magic tricks. Perfect for beginners!",
+        "videoUrl": "https://raw.githubusercontent.com/visiosoft/videostreaming/main/10.mp4",
+        "thumbnailUrl": "https://img.youtube.com/vi/65PmIz6NyT0.jpg",
+        "duration": 100,
+        "categories": ["Card Tricks"],
+        "isPro": false,
+        "isFeatured": true
+      },
+      {
+        "id": "11",
+        "title": "best viral magic tricks ",
+        "description": "unique magic best viral magic tricks. Perfect for beginners!",
+        "videoUrl": "https://raw.githubusercontent.com/visiosoft/videostreaming/main/11.mp4",
+        "thumbnailUrl": "https://img.youtube.com/vi/ALU1sXNy L8.jpg",
+        "duration": 100,
+        "categories": ["Card Tricks"],
+        "isPro": false,
+        "isFeatured": true
+      },
+      {
+        "id": "12",
+        "title": " Majedar Magic tricks",
+        "description": " best unique magic tricks. Perfect for beginners!",
+        "videoUrl": "https://raw.githubusercontent.com/visiosoft/videostreaming/main/12.mp4",
+        "thumbnailUrl": "https://img.youtube.com/vi/onefil8tYrg.jpg",
+        "duration": 100,
+        "categories": ["Card Tricks"],
+        "isPro": false,
+        "isFeatured": true
+      },
+      {
+        "id": "13",
+        "title": " Magic hands ",
+        "description": "magic tricks with hands . Perfect for beginners!",
+        "videoUrl": "https://raw.githubusercontent.com/visiosoft/videostreaming/main/13.mp4",
+        "thumbnailUrl": "https://img.youtube.com/vi/n5S4B8Xyt7E.jpg",
+        "duration": 100,
+        "categories": ["Card Tricks"],
+        "isPro": false,
+        "isFeatured": true
+      },
+      {
+        "id": "14",
+        "title": " BRO REVEALS MY BEST MAGIC ",
+        "description": "magic tricks with sigret . Perfect for beginners!",
+        "videoUrl": "https://raw.githubusercontent.com/visiosoft/videostreaming/main/14.mp4",
+        "thumbnailUrl": "https://img.youtube.com/vi/-lTFVcoM7c8.jpg",
+        "duration": 100,
+        "categories": ["Card Tricks"],
+        "isPro": false,
+        "isFeatured": true
+      },
+      {
+        "id": "15",
+        "title": " Rubberband Fly Magic Trending ",
+        "description": "Reveal unique Rubberband Fly Magic Trending . Perfect for beginners!",
+        "videoUrl": "https://raw.githubusercontent.com/visiosoft/videostreaming/main/15.mp4",
+        "thumbnailUrl": "https://img.youtube.com/vi/idn_qGSmKPs.jpg",
+        "duration": 100,
+        "categories": ["Card Tricks"],
+        "isPro": false,
+        "isFeatured": true
+      },
+  
+  
